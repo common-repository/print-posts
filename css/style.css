@@ -1,0 +1,26 @@
+ul.print-posts-list{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	}
+	ul.print-posts-list li{
+		margin: 0px;
+		padding: 0px;
+		clear: both;
+		}
+		ul.print-posts-list li a{
+			
+		}
+		
+	ul.print-posts-list li.expanded-post-style{
+		padding-bottom: 10px;
+		margin-bottom: 10px;
+		border-bottom: 1px dotted #c3c3c3;
+		}
+		ul.print-posts-list li.expanded-post-style img{
+			float: left;
+			margin: 0px 10px 10px 0px;
+			border: solid 1px #c3c3c3;
+			padding: 2px;
+			background: #f1f1f1;
+		}
